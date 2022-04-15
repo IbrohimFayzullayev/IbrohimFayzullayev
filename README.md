@@ -9,13 +9,13 @@
 
 <!-- **IbrohimFayzullayev/IbrohimFayzullayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h4> Here are some ideas to get you started: </h4>
+<!-- <h4> Here are some ideas to get you started: </h4> -->
 
 <!-- - 🔭 I’m currently working on Frontend Development -->
-- 🌱 I’m currently learning React Js 
-- 👯 I’m looking to collaborate on OpenSource
+<!-- - 🌱 I’m currently learning React Js  -->
+<!-- - 👯 I’m looking to collaborate on OpenSource -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Frontend Development
+<!-- - 💬 Ask me about Frontend Development -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->

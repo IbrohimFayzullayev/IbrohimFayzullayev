@@ -20,7 +20,7 @@
   <img align="left" alt="Bekzod's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=BekzodBaratov.BekzodBaratov)
+![](https://visitor-badge.glitch.me/badge?page_id=IbrohimFayzullayev.IbrohimFayzullayev)
 
 <br />
 
@@ -30,7 +30,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 💼 any freelance work? do reach, [email](mailto:bekzodbaratov18@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:IbrohimFayzullayev18@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**
@@ -73,12 +73,12 @@ TODO-IST:START
 TODO-IST:END
 
 <p align="center">
-  <a href="https://github.com/BekzodBaratov?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/BekzodBaratov"/></a>
-  <a href="https://github.com/BekzodBaratov?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/BekzodBaratov?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-  <a href="https://github.com/BekzodBaratov">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=BekzodBaratov&style=for-the-badge"/></a>
+  <a href="https://github.com/IbrohimFayzullayev?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/IbrohimFayzullayev"/></a>
+  <a href="https://github.com/IbrohimFayzullayev?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/IbrohimFayzullayev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+  <a href="https://github.com/IbrohimFayzullayev">
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=IbrohimFayzullayev&style=for-the-badge"/></a>
 </p>
 
 <br />

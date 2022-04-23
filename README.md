@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A frontend developer from Uzbekistan</h3> -->
 
 <h1 align="center">Hi 👋, I'm Ibrokhim</h1><br />
-## Hey there 
+<h1> Hey there </h1>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- <a href="https://discord.gg/">

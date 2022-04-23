@@ -1,8 +1,8 @@
 <!-- ### Hi there 👋 -->
 <!-- <h3 align="center">A frontend developer from Uzbekistan</h3> -->
 
-<h1 align="center">Hi 👋, I'm Ibrokhim</h1>
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi 👋, I'm Ibrokhim</h1><br />
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br />
 
 <!-- <a href="https://discord.gg/">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -13,6 +13,7 @@
 <a href="https://www.linkedin.com/in/ibrohim-fayzullayev-9226bb224/">
   <img align="left" alt="Ibrokhim's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<br />
 <!-- <a href="https://open.spotify.com/user/">
   <img align="left" alt="Bekzod's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> -->

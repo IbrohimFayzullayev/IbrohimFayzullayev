@@ -4,14 +4,13 @@
 <!-- <h1 align="center">Hi , </h1><br /> -->
 <h1> Hey there 👋, I'm Ibrokhim</h1>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 <a href="https://twitter.com/Ibrohim_2001">
   <img align="left" alt="Ibrohim Fayzullayev| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ibrohim-fayzullayev-9226bb224/">
   <img align="left" alt="Ibrokhim's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=IbrohimFayzullayev.IbrohimFayzullayev)
+
 <!-- <a href="https://discord.gg/">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
@@ -19,9 +18,11 @@
 <!-- <a href="https://open.spotify.com/user/">
   <img align="left" alt="Bekzod's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> I’m currently learning Javascript/React.js 
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> I’m currently learning Javascript/React.js 
 - 💞️ I’m looking to collaborate on OpenSource.
-- 📫 | Write to me: <a href="https://t.me/Ibrohim_Fayzullayev">Telegram</a>
+- 📫 | Write to me: <a href="https://t.me/Ibrohim_Fayzullayev">Telegram</a> -->
+
+![](https://visitor-badge.glitch.me/badge?page_id=IbrohimFayzullayev.IbrohimFayzullayev)
 
 <br />
 

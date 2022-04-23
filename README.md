@@ -1,10 +1,7 @@
 <!-- ### Hi there 👋 -->
-<h1 align="center">Hi 👋, I'm Ibrokhim</h1>
 <!-- <h3 align="center">A frontend developer from Uzbekistan</h3> -->
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> I’m currently learning Javascript/React.js 
-- 💞️ I’m looking to collaborate on OpenSource.
-- 📫 | Write to me: <a href="https://t.me/Ibrohim_Fayzullayev">Telegram</a>
 
+<h1 align="center">Hi 👋, I'm Ibrokhim</h1>
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- <a href="https://discord.gg/">
@@ -19,6 +16,9 @@
 <!-- <a href="https://open.spotify.com/user/">
   <img align="left" alt="Bekzod's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> -->
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> I’m currently learning Javascript/React.js 
+- 💞️ I’m looking to collaborate on OpenSource.
+- 📫 | Write to me: <a href="https://t.me/Ibrohim_Fayzullayev">Telegram</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=IbrohimFayzullayev.IbrohimFayzullayev)
 

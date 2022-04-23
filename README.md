@@ -11,6 +11,7 @@
 <a href="https://www.linkedin.com/in/ibrohim-fayzullayev-9226bb224/">
   <img align="left" alt="Ibrokhim's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+![](https://visitor-badge.glitch.me/badge?page_id=IbrohimFayzullayev.IbrohimFayzullayev)
 <!-- <a href="https://discord.gg/">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
@@ -21,8 +22,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> I’m currently learning Javascript/React.js 
 - 💞️ I’m looking to collaborate on OpenSource.
 - 📫 | Write to me: <a href="https://t.me/Ibrohim_Fayzullayev">Telegram</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=IbrohimFayzullayev.IbrohimFayzullayev)
 
 <br />
 

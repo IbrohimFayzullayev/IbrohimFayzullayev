@@ -107,7 +107,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
-<!-- **IbrohimFayzullayev/IbrohimFayzullayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profle. -->
+<!-- **IbrohimFayzullayev/IbrohimFayzullayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- <h4> Here are some ideas to get you started: </h4> -->
 

@@ -111,7 +111,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <!-- <h4> Here are some ideas to get you started: </h4> -->
 
-<!-- - 🔭 I’m currently working on Frontend Development -->
+<!-- - 🔭 I’m currently working on Frontend Developmen -->
 <!-- - 🌱 I’m currently learning React Js  -->
 <!-- - 👯 I’m looking to collaborate on OpenSource -->
 <!-- - 🤔 I’m looking for help with ... -->

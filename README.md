@@ -113,7 +113,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <!-- - 🔭 I’m currently working on Frontend Development -->
 <!-- - 🌱 I’m currently learning React Js  -->
-<!-- - 👯 I’m looking to collaborate on OpenSource -->
+<!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about Frontend Development -->
 <!-- - 📫 How to reach me: ... -->

@@ -95,11 +95,11 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IbrohimFayzullayev&show_icons=true&theme=gotham" alt="IbrohimFayzullayev" />
 
-## 💻 Last month's activity
+<!-- ## 💻 Last month's activity
 
 <!-- https://github.com/clevercoderr/github-readme-activity-graph -->
 
-<a href=""><img alt="IbrohimFayzullayev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=IbrohimFayzullayev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href=""><img alt="IbrohimFayzullayev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=IbrohimFayzullayev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> --> -->
 
 <!--  |                                                     Preview                                                     |
  | :-------------------------------------------------------------------------------------------------------------: |

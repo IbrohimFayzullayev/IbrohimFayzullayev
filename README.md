@@ -1,84 +1,53 @@
-<h1 align="center">Hi 👋, I'm Ibrokhim Fayzullayev</h1>
-<h3 align="center">Full-Stack Web Developer & Freelance Software Engineer from Uzbekistan 🇺🇿</h3>
+# Hi, I'm Ibrohim Fayzullayev
 
-<p align="center">
-  <a href="https://t.me/Ibrohim_Fayzullayev" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://www.linkedin.com/in/ibrohim-fayzullayev-9226bb224/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ibrohim_f01@mail.ru">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+**Frontend Engineer — React · Next.js · TypeScript | Full-stack delivery with Go, PostgreSQL, Docker**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IbrohimFayzullayev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+Tashkent, Uzbekistan (UTC+5) · Open to on-site and remote roles
+
+[![Portfolio](https://img.shields.io/badge/fayzullayev.uz-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://fayzullayev.uz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrohim-fayzullayev)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Ibrohim_Fayzullayev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ibrokhim.fayzullaev.dev@gmail.com)
 
 ---
 
-### 🚀 About Me
+I build React and Next.js products for fintech, and I can take a feature from the database to the screen. I have 4 years of commercial experience and currently work at **Radius Mobile**.
 
-```javascript
-const ibrokhim = {
-  role: "Full-Stack Web Developer",
-  location: "Uzbekistan 🇺🇿",
-  code: ["JavaScript", "TypeScript", "Go", "C++"],
-  askMeAbout: ["web dev", "open source", "UI/UX", "clean architecture"],
-  philosophy: "Dream up ideas and bring them to life with elegant interfaces.",
-  openToWork: true,
-};
-```
+- **Radius CRM** — the company's core operations system for installment retail. One app runs the whole sale: application → credit scoring → order → payment → overdue → collection. It has 25+ screens across 12 business areas and serves 100+ concurrent staff.
+- **Amanat Pay** — a BNPL platform. I am the sole frontend engineer: I built it from an empty repository to an investor-ready MVP in about 4 months, including CI/CD and deployment.
 
-- 🔭 I'm a passionate self-taught developer who loves turning ideas into clean, well-architected products.
-- 🌱 I care deeply about code quality, user experience, and the craft of building software.
-- 💞️ Open-source enthusiast — I love how collaboration and knowledge sharing happen through open source.
-- 💼 Available for freelance work — feel free to reach out!
-- 💬 Ask me about anything, I'm always happy to help.
+Both are private company code. The projects below are mine and fully public.
 
----
+## Featured project — [fayzullayev.uz](https://fayzullayev.uz)
 
-### 🛠️ Languages & Tools
+A production platform I designed, built and run on my own: a bilingual (Uzbek / English) site and blog, an admin CMS and a REST API. It runs as three services on one Linux VPS behind Caddy with automatic HTTPS.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,go,cpp,mysql,git,html,css&perline=6" alt="tech stack" />
-</p>
+| Repository | What it is | Stack |
+|---|---|---|
+| [portfolio](https://github.com/IbrohimFayzullayev/portfolio) | Public site and blog: SSR / ISR, hreflang, JSON-LD, dynamic OG images | Next.js, TypeScript, Tailwind, Vitest |
+| [portfolio-dashboard](https://github.com/IbrohimFayzullayev/portfolio-dashboard) | Admin CMS and Telegram Mini App | Next.js, TypeScript, TanStack Query, Vitest |
+| [portfolio-api](https://github.com/IbrohimFayzullayev/portfolio-api) | REST API and ops Telegram bot | Go, PostgreSQL, sqlc, Docker |
 
----
+What is inside:
 
-### 📊 GitHub Stats
+- **CI/CD:** GitHub Actions runs lint, type-check and tests before every build. Images are pushed to GHCR with commit-SHA tags. A deploy only passes after it verifies that the running container is the new image and is healthy.
+- **200+ automated tests:** Go unit tests, Go integration tests against a real PostgreSQL in CI, and Vitest in both Next.js apps. A CI check also fails if generated database code drifts from the schema.
+- **Security:** HttpOnly cookie sessions with Origin checks and login rate limiting. Client IPs are read only from the proxy's header, so rate limits cannot be bypassed with a spoofed header.
+- **Operations:** a Go Telegram bot handles alerts and admin tasks. It delivers messages through an outbox table and checks health with flap dampening. It also warns before TLS certificates expire and groups server and browser errors. A separate cron watchdog monitors the bot, and an external heartbeat covers the case where the whole server goes down.
+- **Backups:** nightly PostgreSQL dumps go to Cloudflare R2 with object lock, and restores are tested.
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IbrohimFayzullayev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrohimFayzullayev&layout=compact&theme=gotham&langs_count=8" alt="top languages" />
-</p>
+## Also
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrohimFayzullayev&theme=gotham" alt="streak stats" />
-</p>
+- [rag-chatbot](https://github.com/IbrohimFayzullayev/rag-chatbot) — an AI assistant for telecom tariff guidance and customer support, built as my diploma project. Built with Next.js and the Vercel AI SDK. [Live demo](https://uztelecom-ai-chatbot.vercel.app)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IbrohimFayzullayev&theme=gruvbox&no-frame=true&column=7&margin-w=10" alt="trophies" />
-</p>
+## Stack
+
+**Frontend:** React · Next.js (App Router, SSR / SSG / ISR) · TypeScript · TanStack Query · Tailwind CSS · Feature-Sliced Design · Telegram Mini Apps
+
+**Backend & data:** Go · PostgreSQL · REST APIs · Node.js · GraphQL
+
+**DevOps & quality:** Docker · GitHub Actions · Linux · Caddy · Vitest · Go testing
 
 ---
 
-### 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-### ☕ Support
-
-If you like what I do, maybe consider buying me a coffee 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/ibrohimcoder" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="160" />
-</a>
-
-<p align="center"><i>⭐️ From <a href="https://github.com/IbrohimFayzullayev">Ibrokhim Fayzullayev</a></i></p>
+📫 The fastest way to reach me is [Telegram](https://t.me/Ibrohim_Fayzullayev) or [email](mailto:ibrokhim.fayzullaev.dev@gmail.com).

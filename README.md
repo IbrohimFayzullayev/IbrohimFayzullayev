@@ -36,10 +36,6 @@ What is inside:
 - **Operations:** a Go Telegram bot handles alerts and admin tasks. It delivers messages through an outbox table and checks health with flap dampening. It also warns before TLS certificates expire and groups server and browser errors. A separate cron watchdog monitors the bot, and an external heartbeat covers the case where the whole server goes down.
 - **Backups:** nightly PostgreSQL dumps go to Cloudflare R2 with object lock, and restores are tested.
 
-## Also
-
-- [rag-chatbot](https://github.com/IbrohimFayzullayev/rag-chatbot) — an AI assistant for telecom tariff guidance and customer support, built as my diploma project. Built with Next.js and the Vercel AI SDK. [Live demo](https://uztelecom-ai-chatbot.vercel.app)
-
 ## Stack
 
 **Frontend:** React · Next.js (App Router, SSR / SSG / ISR) · TypeScript · TanStack Query · Tailwind CSS · Feature-Sliced Design · Telegram Mini Apps

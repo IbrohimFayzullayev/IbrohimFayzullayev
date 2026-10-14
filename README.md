@@ -1,6 +1,6 @@
 # Hi, I'm Ibrohim Fayzullayev
 
-**Frontend Engineer — React · Next.js · TypeScript | Full-stack delivery with Go, PostgreSQL, Docker**
+**Frontend Engineer - React · Next.js · TypeScript | Full-stack delivery with Go, PostgreSQL, Docker**
 
 Tashkent, Uzbekistan (UTC+5) · Open to on-site and remote roles
 
@@ -11,14 +11,14 @@ Tashkent, Uzbekistan (UTC+5) · Open to on-site and remote roles
 
 ---
 
-I build React and Next.js products for fintech, and I can take a feature from the database to the screen. I have 4 years of commercial experience and currently work at **Radius Mobile**.
+I build React and Next.js products for fintech, and I can take a feature from the database to the screen. I have 4 years of commercial experience.
 
-- **Radius CRM** — the company's core operations system for installment retail. One app runs the whole sale: application → credit scoring → order → payment → overdue → collection. It has 25+ screens across 12 business areas and serves 100+ concurrent staff.
-- **Amanat Pay** — a BNPL platform. I am the sole frontend engineer: I built it from an empty repository to an investor-ready MVP in about 4 months, including CI/CD and deployment.
+- **Amanat Pay** (now) - a BNPL platform, live with real customers. I am the only frontend engineer: I built it from an empty repository to an investor-ready MVP in about 4 months, then took it to launch, including CI/CD and deployment.
+- **Radius Mobile** (2022-2025) - the company's core CRM for installment retail. One app runs the whole sale: application → credit scoring → order → payment → overdue → collection. 25+ screens across 12 business areas, 100+ concurrent staff.
 
 Both are private company code. The projects below are mine and fully public.
 
-## Featured project — [fayzullayev.uz](https://fayzullayev.uz)
+## Featured project - [fayzullayev.uz](https://fayzullayev.uz)
 
 A production platform I designed, built and run on my own: a bilingual (Uzbek / English) site and blog, an admin CMS and a REST API. It runs as three services on one Linux VPS behind Caddy with automatic HTTPS.
 
